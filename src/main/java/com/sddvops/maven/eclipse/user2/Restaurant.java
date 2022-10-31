@@ -3,5 +3,6 @@ package com.sddvops.maven.eclipse.user2;
 public class Restaurant {
 	String name;
 	String address;
-	Boolean phone;
+  //merged conflict and change to int
+	int phone;
 }
